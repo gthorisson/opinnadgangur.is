@@ -1,7 +1,7 @@
-oa-island.github.com
+opinnadgangur.is
 ====================
 
-Vefsíða áhugahóps um opinn aðgang á Íslandi
+Upplýsingagátt um opinn aðgang á Íslandi
 
 
 

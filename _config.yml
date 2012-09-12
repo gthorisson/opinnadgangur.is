@@ -1,6 +1,6 @@
 base_url:    /
 description:  "Óháð upplýsingagátt um opinn aðgang á Íslandi"
-root_desc:    "Óháð upplýsingagátt um OA á Íslandi"
+root_desc:    "Óháð upplýsingagátt um opinn aðgang á Íslandi"
 markdown: kramdown
 paginate: 10
 
